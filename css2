@@ -1,0 +1,35 @@
+﻿@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkQPI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkQPI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kQPI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSlgPI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrlgPI.ttf) format('truetype');
+}
